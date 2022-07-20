@@ -4,12 +4,13 @@
 // import UseRefExample2 from "./components/UseRefExample2";
 // import UseRefExample3 from "./components/UseRefExample3";
 
-import CustomHookExample1 from "./components/CustomHookExample1";
+import CustomHookExample2 from "./components/CustomHookExample2";
+// import CustomHookExample1 from "./components/CustomHookExample1";
 
 function App() {
   return (
     <div className="container mt-5">
-      <CustomHookExample1 />
+      <CustomHookExample2 />
     </div>
   );
 }
